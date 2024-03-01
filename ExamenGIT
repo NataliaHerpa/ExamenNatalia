@@ -1,136 +1,18 @@
-Este es el commit del main que deberá ser sustituidos por las versiones futuras, elimina esto cuando surjan conflictos con el examen A y el examen B. 
 
+=======
+Contesta la pregunta y realiza un commit a la rama correspondiente a la pregunta (examenA o examenB).
 
 
+PREGUNTA A - Explica con tus propias palabras qué es y cómo funciona git. Para ello define y explica la función de los elementos que lo forman: (commit, branch, tree, blob). 
 
+Git es un sistema de control de versiones que se utiliza para gestionar el seguimiento de cambios en el código fuente y otros archivos de un proyecto. Funciona mediante la creación de un repositorio, donde se almacena todo el historial de cambios realizados en los archivos del proyecto.
 
+Commit: Es un conjunto de cambios realizados en los archivos del proyecto en un momento específico.
+Branch: Línea independiente de desarrollo que parte del historial principal del proyecto 
+Tree: Estructura que representa la organización de los archivos en un directorio.
+=======
+PREGUNTA B - Explica los cuatro "lugares" donde pueden encontrarse los archivos que forman parte de un repositorio GIT. Nombra el comando para mover un archivo de un espacio a otro con la siguiente sintaxys: [LugarInicial - LugarFinal => comando]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Directorio de trabajo - Área de preparación - Repositorio local - Repositorio remoto 
+>>>>>>> ExamenA
 
